@@ -123,5 +123,3 @@ while(take_again == True):
   else:
     print("Thanks for taking the quiz!")
     take_again = False
-
-
